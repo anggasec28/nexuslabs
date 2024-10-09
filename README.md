@@ -1,6 +1,6 @@
 <h3 align=center style="font-weight=bold"> NEXUS-LABS ZKVM PROVER </h3>
 
-**System Reuired**
+**System Required**
 - **RAM**: 4 GB recomended 6GB
 - **CPU**: 2 cores
 - **Disk Space**: 50 GB
